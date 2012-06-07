@@ -1,9 +1,9 @@
-CSS Documentation Framework
----------------------------
+CSS List Documentation Framework
+--------------------------------
 
 ## Overview
 
-A simple lightweight CSS/HTML mini 'framework' of sorts to allow for quick and easy documentation of procedures/techniques that enatail multiple, sometimes in-depth steps to complete.
+A simple lightweight HTML/CSS mini 'framework' of sorts to allow for quick and easy documentation of procedures/techniques that enatail multiple, sometimes in-depth steps to complete.
 
 ## Details
 
