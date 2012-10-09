@@ -3,7 +3,7 @@ CSS List Documentation Framework
 
 ## Overview
 
-A simple lightweight HTML/CSS mini 'framework' of sorts to allow for quick and easy documentation of
+A simple, lightweight HTML/CSS mini 'framework' of sorts to allow for quick and easy documentation of
 procedures/techniques that entail multiple, sometimes in-depth steps to complete, using a nested list structure with
  uniquely-labelled sections and bullet-points.
 
